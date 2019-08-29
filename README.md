@@ -1,6 +1,8 @@
 # Deep-Learning-in-the-Prediction-of-State-Legislature-Polarization-From-Demographic-Data
 The repository for our paper that includes the data sources and neural network models. 
 
+More information. 
+
 Paper Title:
 The Application of Deep Learning in the Prediction of State Legislature Polarization From Demographic Data
 
@@ -34,8 +36,9 @@ The University of Nevada, Reno
 B.S. History, Political Science
 Historical Research Intern at The Burr Project
 
+*Data Science Intern at The Burr Project, Inc.
+
 Others, TBD
 
 Paper Abstract:
 TBD
-
